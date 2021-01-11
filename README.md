@@ -10,7 +10,7 @@ I studied design and computer science, and I like the space between art and code
 
 I cannot skateboard. I tried, but it was a whole&nbsp;thing.
 
-In my spare time I like to work on micro projects, from [tools for creative coding](https://sandpitjs.com/), to [tweet-based music videos](http://tweetflight.wearebrightly.com/), to [random episode selectors](http://thiskindofagility.superhighfives.com/) for Arrested Development. I also like to [write about web development](https://medium.com/superhighfives), contribute to [open source](http://github.com/superhighfives/), and share [design resources](https://dribbble.com/superhighfives).
+In my spare time I like to work on micro projects, from [tools for creative coding](https://sandpitjs.com/), to [tweet-based music videos](http://tweetflight.wearebrightly.com/), to [design-focused macOS apps](https://superhighfives.com/pika). I also like to [write about web development](https://medium.com/superhighfives), contribute to [open source](http://github.com/superhighfives/), and share [design resources](https://dribbble.com/superhighfives).
 
 My work has been featured by Google’s Creative Sandbox, and has received numerous awards, including from [Awwwards](https://thefwa.com/profiles/charlie-gleason) and [the&nbsp;FWA](https://thefwa.com/profiles/charlie-gleason).
 
