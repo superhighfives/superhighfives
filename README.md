@@ -1,4 +1,4 @@
-<img src="https://charliegleason.com/api/favmoji?emoji=random&padding=40" alt="A randomly generated emoji mashup, called a favmoji" width="100" height="100" />
+<img src="https://emoji.charliegleason.com/random" alt="A randomly generated emoji mashup, called a favmoji" width="100" height="100" />
 
 # Hello, I'm Charlie.
 
