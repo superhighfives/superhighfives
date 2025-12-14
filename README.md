@@ -2,9 +2,9 @@
 
 # Hello, I'm Charlie.
 
-### I’m a staff designer at [Replicate](https://replicate.com), looking after developer experience at the intersection of design, code, and machine learning.
+### I’m a principal systems engineer at [Cloudflare](https://cloudflare.com), working on design engineering and developer experience at the intersection of code and AI.
 
-Before that I was a lead product designer at [Salesforce](https://salesforce.com), owned design and brand at [Heroku](https://heroku.com), worked on design and front-end development for London-based crowdfunding publisher [Unbound](https://unbound.com), co-founded the Melbourne-based social film site Goodfilms, and was the technical lead of the [Clemenger BBDO](https://www.clemengerbbdo.com.au/en) ad&nbsp;agency.
+Before that I was a staff designer at [Replicate](https://replicate.com), a lead product designer at [Salesforce](https://salesforce.com), owned design and brand at [Heroku](https://heroku.com), worked on design and front-end development for London-based crowdfunding publisher [Unbound](https://unbound.com), co-founded the Melbourne-based social film site Goodfilms, and was the technical lead of the [Clemenger BBDO](https://www.clemengerbbdo.com.au/en) ad&nbsp;agency.
 
 I studied design and computer science, and I like the space between creativity and code. I also enjoy the blind terror of the creative process, solving difficult problems, and a clean sheet of&nbsp;paper.
 
